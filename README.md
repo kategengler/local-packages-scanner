@@ -4,6 +4,8 @@
 
 `./scan-packages.sh compromised-packages.txt`
 
+Run from a folder that is above all dev dirs. 
+
 Very slow. No guarantees of correctness.
 
 ## Input (default: compromised-packages.txt)
